@@ -17,8 +17,8 @@ git clone https://github.com/ArunimaAJ123/tech_interview_2026
 cd tech_interview_2026
 ```
 ### Make Changes
-Open the project files
-Do the required changes
+-> Open the project files
+-> Do the required changes
 
 ### Add, Commit and Push
 
