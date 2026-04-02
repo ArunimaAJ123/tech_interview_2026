@@ -27,7 +27,7 @@ git commit -m "Updated the project"
 git push origin main
 ```
 ### Create a Pull Request
-Open your repository on GitHub
-Click on Compare & Pull Request
+Open your repository on GitHub,
+Click on Compare & Pull Request,
 Submit your changes
 
